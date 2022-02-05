@@ -113,26 +113,6 @@ namespace variables
             int int20 = 20;
             string yeniDeger = str20 + int20.ToString();
             Console.WriteLine(yeniDeger);
-
-
-
-
-
-
-            
-
-
-
-
-            
-        
-
-
-
-
-
-
-
         }
     }
 }
