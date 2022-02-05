@@ -112,7 +112,19 @@ namespace variables
             string str20 = "20";
             int int20 = 20;
             string yeniDeger = str20 + int20.ToString();
-            Console.WriteLine(yeniDeger);
+            Console.WriteLine(yeniDeger);//2020
+
+            int int21 = int20 + Convert.ToInt32(str20);
+            Console.WriteLine(int21); //40
+
+            int int22 = int20 + int.Parse(str20);//40
+            //int int23 = int20 + int.Parse(2.3);//Format Exception
+
+            //Datetime
+            string datetime = DateTime.Now.ToString("dd.MM.yyyy"); // bu formatta getir
+            string datetime2 = DateTime.Now.ToString("dd/MM/yyyy");
+            string hour = DateTime.Now.ToString("HH:mm");
+
         }
     }
 }
