@@ -1,0 +1,16 @@
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\bin\Debug\net5.0\loops-for.exe
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\bin\Debug\net5.0\loops-for.deps.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\bin\Debug\net5.0\loops-for.runtimeconfig.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\bin\Debug\net5.0\loops-for.runtimeconfig.dev.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\bin\Debug\net5.0\loops-for.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\bin\Debug\net5.0\ref\loops-for.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\bin\Debug\net5.0\loops-for.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\loops-for.csproj.AssemblyReference.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\loops-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\loops-for.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\loops-for.AssemblyInfo.cs
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\loops-for.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\loops-for.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\ref\loops-for.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\loops-for.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\loops-for\obj\Debug\net5.0\loops-for.genruntimeconfig.cache
