@@ -1,0 +1,16 @@
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\bin\Debug\net5.0\converts.exe
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\bin\Debug\net5.0\converts.deps.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\bin\Debug\net5.0\converts.runtimeconfig.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\bin\Debug\net5.0\converts.runtimeconfig.dev.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\bin\Debug\net5.0\converts.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\bin\Debug\net5.0\ref\converts.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\bin\Debug\net5.0\converts.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\converts.csproj.AssemblyReference.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\converts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\converts.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\converts.AssemblyInfo.cs
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\converts.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\converts.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\ref\converts.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\converts.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\converts\obj\Debug\net5.0\converts.genruntimeconfig.cache
