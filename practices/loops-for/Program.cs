@@ -62,6 +62,18 @@ namespace loops_for
                 Console.WriteLine(i);//1 ile 10 arasındaki tek sayılar yazdırılacaktır.
             }
 
+            //Hackerrank
+            int n = Convert.ToInt32(Console.ReadLine().Trim());
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine(string.Format("{0} x {1} = ", n, i) + n * i);
+            }
+
+            //2 - Staircase
+            int N = int.Parse(Console.ReadLine());
+            for (int i = 0; i < N; i++)
+                Console.WriteLine(new String('#', i + 1).PadLeft(N, ' '));
+
         }
     }
 }
