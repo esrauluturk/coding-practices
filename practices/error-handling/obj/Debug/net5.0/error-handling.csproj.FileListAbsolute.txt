@@ -1,0 +1,16 @@
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\bin\Debug\net5.0\error-handling.exe
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\bin\Debug\net5.0\error-handling.deps.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\bin\Debug\net5.0\error-handling.runtimeconfig.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\bin\Debug\net5.0\error-handling.runtimeconfig.dev.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\bin\Debug\net5.0\error-handling.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\bin\Debug\net5.0\ref\error-handling.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\bin\Debug\net5.0\error-handling.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\error-handling.csproj.AssemblyReference.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\error-handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\error-handling.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\error-handling.AssemblyInfo.cs
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\error-handling.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\error-handling.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\ref\error-handling.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\error-handling.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\error-handling\obj\Debug\net5.0\error-handling.genruntimeconfig.cache
