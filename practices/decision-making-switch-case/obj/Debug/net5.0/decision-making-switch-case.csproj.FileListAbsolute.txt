@@ -1,0 +1,16 @@
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\bin\Debug\net5.0\decision-making-switch-case.exe
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\bin\Debug\net5.0\decision-making-switch-case.deps.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\bin\Debug\net5.0\decision-making-switch-case.runtimeconfig.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\bin\Debug\net5.0\decision-making-switch-case.runtimeconfig.dev.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\bin\Debug\net5.0\decision-making-switch-case.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\bin\Debug\net5.0\ref\decision-making-switch-case.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\bin\Debug\net5.0\decision-making-switch-case.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\decision-making-switch-case.csproj.AssemblyReference.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\decision-making-switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\decision-making-switch-case.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\decision-making-switch-case.AssemblyInfo.cs
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\decision-making-switch-case.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\decision-making-switch-case.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\ref\decision-making-switch-case.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\decision-making-switch-case.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-switch-case\obj\Debug\net5.0\decision-making-switch-case.genruntimeconfig.cache
