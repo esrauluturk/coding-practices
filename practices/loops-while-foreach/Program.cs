@@ -43,7 +43,7 @@ namespace loops_while_foreach
             {
                 arrSum += i;
             }
-            //Belirsiz sayıda iterasyona sahip, yalnızca belli bir koşul sağlandığı sürece döngü kullanmamız gerektiğinde while kullanılır.
+            //Belirsiz sayıda iterasyona sahip, yalnızca belli bir koşul sağlandığı sürece kullanmamız gereken döngü while'dır.
         }
     }
 }
