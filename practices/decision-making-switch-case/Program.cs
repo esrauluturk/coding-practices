@@ -63,7 +63,7 @@ namespace decision_making_switch_case
                     Console.WriteLine("Autumn");
                     break;
 
-                default://bu ifade mutlaka olmalı
+                default:
                     break;
 
             }
