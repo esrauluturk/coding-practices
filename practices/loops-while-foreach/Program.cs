@@ -33,9 +33,8 @@ namespace loops_while_foreach
             foreach (var author in authors)
             {
                 Console.WriteLine(author);
-
             }
-            
+
             //Example - 2
             int[] numberArr = { 2, 4, 5, 1, 2, 4 };
             int arrSum = 0;
@@ -44,6 +43,7 @@ namespace loops_while_foreach
             {
                 arrSum += i;
             }
+            //Belirsiz sayıda iterasyona sahip, yalnızca belli bir koşul sağlandığı sürece döngü kullanmamız gerektiğinde while kullanılır.
         }
     }
 }
