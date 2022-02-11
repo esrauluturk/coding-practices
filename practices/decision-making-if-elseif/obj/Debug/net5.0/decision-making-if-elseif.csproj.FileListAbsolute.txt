@@ -1,0 +1,16 @@
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\bin\Debug\net5.0\decision-making-if-elseif.exe
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\bin\Debug\net5.0\decision-making-if-elseif.deps.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\bin\Debug\net5.0\decision-making-if-elseif.runtimeconfig.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\bin\Debug\net5.0\decision-making-if-elseif.runtimeconfig.dev.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\bin\Debug\net5.0\decision-making-if-elseif.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\bin\Debug\net5.0\ref\decision-making-if-elseif.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\bin\Debug\net5.0\decision-making-if-elseif.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\decision-making-if-elseif.csproj.AssemblyReference.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\decision-making-if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\decision-making-if-elseif.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\decision-making-if-elseif.AssemblyInfo.cs
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\decision-making-if-elseif.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\decision-making-if-elseif.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\ref\decision-making-if-elseif.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\decision-making-if-elseif.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\decision-making-if-elseif\obj\Debug\net5.0\decision-making-if-elseif.genruntimeconfig.cache
