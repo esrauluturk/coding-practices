@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "loops-while-foreach/1.0.0": {
+        "runtime": {
+          "loops-while-foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "loops-while-foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
