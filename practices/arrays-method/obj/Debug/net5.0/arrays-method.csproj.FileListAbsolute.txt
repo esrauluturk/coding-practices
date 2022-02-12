@@ -1,0 +1,16 @@
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\bin\Debug\net5.0\arrays-method.exe
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\bin\Debug\net5.0\arrays-method.deps.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\bin\Debug\net5.0\arrays-method.runtimeconfig.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\bin\Debug\net5.0\arrays-method.runtimeconfig.dev.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\bin\Debug\net5.0\arrays-method.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\bin\Debug\net5.0\ref\arrays-method.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\bin\Debug\net5.0\arrays-method.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\arrays-method.csproj.AssemblyReference.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\arrays-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\arrays-method.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\arrays-method.AssemblyInfo.cs
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\arrays-method.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\arrays-method.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\ref\arrays-method.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\arrays-method.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\arrays-method\obj\Debug\net5.0\arrays-method.genruntimeconfig.cache
