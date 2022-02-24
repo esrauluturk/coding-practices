@@ -1,0 +1,16 @@
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\bin\Debug\net5.0\C#-Tasks-Week2.exe
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\bin\Debug\net5.0\C#-Tasks-Week2.deps.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\bin\Debug\net5.0\C#-Tasks-Week2.runtimeconfig.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\bin\Debug\net5.0\C#-Tasks-Week2.runtimeconfig.dev.json
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\bin\Debug\net5.0\C#-Tasks-Week2.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\bin\Debug\net5.0\ref\C#-Tasks-Week2.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\bin\Debug\net5.0\C#-Tasks-Week2.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\C#-Tasks-Week2.csproj.AssemblyReference.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\C#-Tasks-Week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\C#-Tasks-Week2.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\C#-Tasks-Week2.AssemblyInfo.cs
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\C#-Tasks-Week2.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\C#-Tasks-Week2.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\ref\C#-Tasks-Week2.dll
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\C#-Tasks-Week2.pdb
+C:\Users\esra\Desktop\C#\C#Hazırlıkgit\coding-practices\practices\C#-Tasks-Week2\obj\Debug\net5.0\C#-Tasks-Week2.genruntimeconfig.cache
